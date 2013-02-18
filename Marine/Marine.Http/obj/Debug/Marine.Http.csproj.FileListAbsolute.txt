@@ -1,0 +1,6 @@
+D:\projectcode\Marine\Marine.Http\bin\Debug\Marine.Http.exe.config
+D:\projectcode\Marine\Marine.Http\bin\Debug\Marine.Http.exe
+D:\projectcode\Marine\Marine.Http\bin\Debug\Marine.Http.pdb
+D:\projectcode\Marine\Marine.Http\obj\Debug\Marine.Http.csprojResolveAssemblyReference.cache
+D:\projectcode\Marine\Marine.Http\obj\Debug\Marine.Http.exe
+D:\projectcode\Marine\Marine.Http\obj\Debug\Marine.Http.pdb
