@@ -122,21 +122,6 @@ namespace Marine.CSFramework.Attributes
             return null;
         }
 
-        public SnapInVersionAttribute GetSnapInVersionAttributes()
-        {
-            try
-            {
-                object[] attributes = _type.GetCustomAttributes(typeof(SnapInVersionAttribute), false);
-                if (attributes.Length > 0)
-                    return attributes[0] as SnapInVersionAttribute;
-            }
-            catch (Exception err)
-            {
-                System.Diagnostics.Trace.WriteLine(err);
-            }
-            return null;
-        }
-
         public SnapInProductFamilyMemberAttribute[] GetSnapInProductFamilyMemberAttributes()
         {
             try
