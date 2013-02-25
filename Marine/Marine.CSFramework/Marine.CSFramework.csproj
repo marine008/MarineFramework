@@ -64,6 +64,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SnapIns\SnapIn.cs" />
     <Compile Include="SnapIns\SnapInApplicationContext.cs" />
+    <Compile Include="SnapIns\SnapInDescriptor.cs" />
+    <Compile Include="SnapIns\SnapInMetaData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
